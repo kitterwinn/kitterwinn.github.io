@@ -1,0 +1,53 @@
+h1 {
+  color: #E9967A;
+    text-align: center;
+}
+h2 {
+  color: #3CB371;
+text-align: center;
+}
+h3 {
+  color: #D2691E;
+    text-align: center
+}
+p {
+  color: #008B8B;
+    text-align: center;
+}
+img.greenscarf {
+  width: 400px;
+  height: 400px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto; 
+}
+img.sushi{
+    width: 200px;
+    height:200px;
+    	display: block;
+  margin-left: auto;
+  margin-right: auto; 
+}
+img.chicken{
+    width: 200px;
+    height: 200px;
+    	display: block;
+  margin-left: auto;
+  margin-right: auto; 
+}
+img.veggie{
+    width: 200px;
+    height: 200px;
+    	display: block;
+  margin-left: auto;
+  margin-right: auto; 
+}
+img.poetry {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+html {
+    background-color: beige
+}
+
